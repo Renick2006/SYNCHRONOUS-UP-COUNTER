@@ -1,4 +1,6 @@
 ### SYNCHRONOUS-UP-COUNTER
+## Name: Renick Fabian Rajesh
+## Reg No: 212224230227
 
 **AIM:**
 
@@ -47,7 +49,6 @@ However, the remaining flip-flops should be made ready to toggle only when all l
      end
      endmodule
  
-Developed by:S.Ravant Vignesh RegisterNumber:24900151
 */
 
 **RTL LOGIC UP COUNTER**
